@@ -1,0 +1,46 @@
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe.config
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.pdb
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioApi.dll
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioApi.pdb
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.Form1.resources
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.exe
+C:\Users\Xavier\Desktop\CoreAudio2_Src\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe.config
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.exe
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.Form1.resources
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudio.dll
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudio.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.csprojResolveAssemblyReference.cache
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.csproj.GenerateResource.Cache
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe.config
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.exe
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.pdb
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.pdb
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudio.dll
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudio.pdb
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.csprojResolveAssemblyReference.cache
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.Form1.resources
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.csproj.GenerateResource.Cache
+C:\Users\ZethSQx\Documents\Visual Studio 2013\Projects\CoreAudio\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.Properties.Resources.resources
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe.config
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.exe
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.pdb
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.csprojResolveAssemblyReference.cache
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.Form1.resources
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.Properties.Resources.resources
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.csproj.GenerateResource.Cache
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.pdb
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudio.dll
+C:\Users\SQ\Desktop\CoreAudio_1.0\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudio.pdb
+C:\Users\ZethSQx\Desktop\CoreAudio_1.2\CoreAudioSample\CoreAudioSample\bin\Debug\CoreAudioSample.exe.config
+C:\Users\ZethSQx\Desktop\CoreAudio_1.2\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.exe
+C:\Users\ZethSQx\Desktop\CoreAudio_1.2\CoreAudioSample\CoreAudioSample\obj\Debug\CoreAudioSample.pdb

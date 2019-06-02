@@ -1,0 +1,5 @@
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudio\bin\CoreAudio.dll
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudio\bin\CoreAudio.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudio\obj\x86\Debug\CoreAudio.dll
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudio\obj\x86\Debug\CoreAudio.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\CoreAudio\obj\x86\Debug\CoreAudio.csprojResolveAssemblyReference.cache
