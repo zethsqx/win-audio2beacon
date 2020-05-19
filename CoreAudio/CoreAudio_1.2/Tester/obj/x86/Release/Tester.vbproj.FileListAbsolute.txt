@@ -1,0 +1,12 @@
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\bin\Tester.exe
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\bin\Tester.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\bin\Tester.xml
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\bin\CoreAudio.dll
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\bin\CoreAudio.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.Resources.resources
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.exe
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.xml
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.pdb
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.vbprojResolveAssemblyReference.cache
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.frmMain.resources
+C:\Users\Xavier\Documents\Visual Studio 2010\Projects\ThirdParty\CoreAudio\Tester\obj\x86\Release\Tester.vbproj.GenerateResource.Cache
