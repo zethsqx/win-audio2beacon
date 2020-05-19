@@ -11,39 +11,38 @@ The Core Audio Beacon Project supplements the existing capabilities of any softw
 
 The Core Audio Beacon Project builds on the alarm sound from any software and send signal over to the microprocessor where it will activate the beacon, thereby alerting.
 
-### Overview
+### Architecture Diagram
+![overview](readme_images/overview.png)
 
-![Architecture Diagram](readme_images/overview.png)
+### Software Components
+![coreaudio](readme_images/coreaudio.png)
+![arduinoide](readme_images/arduinoide.png)
 
-Software Components
-![Core Audio](coreaudio/overview.png)
-![Arduino IDE](arduinoide/overview.png)
+### Hardware Components
+![uno](readme_images/uno.png)
+![relay](readme_images/relay.png)
+![beacon](readme_images/beacon.png)
+![adapter](readme_images/adapter.png)
+![wireboard](readme_images/wireboard.png)
+![solderkit](readme_images/solderkit.png)
+![spst](readme_images/spst.png)
 
-Hardware Components
-![Core Audio](uno/overview.png)
-![Arduino IDE](relay/overview.png)
-![Core Audio](beacon/overview.png)
-![Arduino IDE](adapter/overview.png)
-![Core Audio](wireboard/overview.png)
-![Arduino IDE](solderkit/overview.png)
-![Arduino IDE](spst/overview.png)
+![stepscoreaudio](readme_images/stepscoreaudio.png)
+![error](readme_images/error.png)
+![success](readme_images/success.png)
+![noproc](readme_images/noproc.png)
 
-![Arduino IDE](stepscoreaudio/overview.png)
-![Arduino IDE](error/overview.png)
-![Arduino IDE](success/overview.png)
-![Arduino IDE](noproc/overview.png)
+![electricdiagram1](readme_images/electricdiagram1.png)
+![electricdiagram2](readme_images/electricdiagram2.png)
 
-![Arduino IDE](electricdiagram1/overview.png)
-![Arduino IDE](electricdiagram2/overview.png)
+![Arduino IDE](readme_images/unopinout.png)
+![Arduino IDE](readme_images/arduinodebug.png)
 
-![Arduino IDE](unopinout/overview.png)
-![Arduino IDE](arduinodebug/overview.png)
+![circuit](readme_images/circuit.png)
+![circuitdebug](readme_images/circuitdebug.png)
 
-![Arduino IDE](circuit/overview.png)
-![Arduino IDE](circuitdebug/overview.png)
+![component](readme_images/component.png)
+![componentdebug](readme_images/componentdebug.png)
 
-![Arduino IDE](component/overview.png)
-![Arduino IDE](componentdebug/overview.png)
-
-![Arduino IDE](final/overview.png)
+![final](readme_images/final.png)
 
