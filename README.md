@@ -2,7 +2,7 @@
 
 ## History
 
-This is a very old project of mine started in ~2012??  
+This is a very old project started in ~2012??  
 The idea is to complement the lack of visual alert for a program that produce only sound alert  
 It is especially practical for environment where visual is required  
 This is a VB application that listen if desktop has sound and sends signal '1' to COM port and to start a process
