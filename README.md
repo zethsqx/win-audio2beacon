@@ -27,8 +27,8 @@ Core Audio     |  Arduino IDE/Web Editor
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="readme_images/uno.png" width="50%"> |  <img src="readme_images/relay.png" width="50%">  | <img src="readme_images/beacon.png" width="50%"> |  <img src="readme_images/adapter.png" width="50%">  
 Arduino     |  Relay Switch<br/><br/>Recommendation:<br/>Coiled Voltage/Switch Voltage: < DC 5V <br/>Rated Load: >= (refer to Beacon specifications) |  Beacon<br/><br/>Recommendation:<br/>Rated: 12VDC or 24VDC (Do not get VAC/AC) | DC Voltage Power Adapter<br/><br/>Output: (refer to Beacon specifications)  
-<img src="readme_images/buzzer.png" width="100%"> | <img src="readme_images/wireboard.png" width="100%"> | <img src="readme_images/solderkit.png" width="100%"> | <img src="readme_images/spst.png" width="100%">  
-Buzzer | Wire & Breadboard | Soldering Kit | On/Off Switch (SPST)
+<img src="readme_images/buzzer1.png" width="100%"> | <img src="readme_images/wireboard.png" width="100%"> | <img src="readme_images/solderkit.png" width="100%"> | <img src="readme_images/spst.png" width="100%">  
+Buzzer<br/><br/>*Optional if your beacon has buzzer | Wire & Breadboard | Soldering Kit | On/Off Switch (SPST)
 
 ## Software Installation
 
@@ -116,7 +116,7 @@ b) “NO-PROC”: indicates that processes could not be found
         ii. Ensure process exists  
    2. Possible Problem:  
         Process name is wrong / Process name contain .exe  
-      Resolution:  
+      Resolution:   
         i. Go to Task Manager  
         ii. Ensure process exists  
         iii. Enter again the process name with “.exe”
