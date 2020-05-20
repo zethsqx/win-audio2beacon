@@ -14,7 +14,7 @@ The Core Audio Beacon Project can complements any software that produce sound, a
 The Core Audio Beacon Project builds on the desktop sound and send signal over to the microprocessor where it will activate the beacon.
 
 ### Architecture Diagram
-![overview](readme_images/overview.png) 
+<img src="readme_images/overview.png" width="70%">
 
 ### Software Components
 |              |   |
@@ -40,6 +40,8 @@ level audio APIs such as Microsoft DirectSound and the Windows multimedia waveXx
 functions. Most applications communicate with the higher-level APIs, but some
 applications with special requirements might need to communicate directly with the
 core audio APIs.
+
+Credit - https://www.codeproject.com/script/Articles/ArticleVersion.aspx?aid=18520&av=112029 (link is dead)
 
 #### Understanding Core Audio Modification
 The original core audio sample program can be downloaded at link. The
@@ -82,7 +84,7 @@ easily.
 
 *NOTE: The beacon can be swapped with a higher voltage, however, ensure matching voltage &
 compatibility for the output from power adapter, rated load for relay switch, buzzer and on/off switch
-![electricdiagram1](readme_images/electricdiagram1.png)
+<img src="readme_images/electricdiagram1.png" width="70%">
 ![electricdiagram2](readme_images/electricdiagram2.png)
 
 ## Debugging
@@ -144,5 +146,4 @@ Soldering:
      * Blue Circle: Solder
      * Orange Square: Use a wire connector
 
-![final](readme_images/final.png)
-
+<img src="readme_images/final.png" width="70%">
