@@ -50,7 +50,7 @@ The original program was modified to include 3 functions:
 * A simple user interface to allow user to modify the COM port number and
 process name.
 * Communication to COM port, so that message can be send out.
-* Process checking, to check whether process is currently running.
+* Process checking, to check whether process is currently running.  
 ![stepscoreaudio](readme_images/stepscoreaudio.png)
 
 #### How to Use
@@ -83,9 +83,9 @@ Load code into the Arduino
 easily.
 
 *NOTE: The beacon can be swapped with a higher voltage, however, ensure matching voltage &
-compatibility for the output from power adapter, rated load for relay switch, buzzer and on/off switch
-<img src="readme_images/electricdiagram1.png" width="70%">
-![electricdiagram2](readme_images/electricdiagram2.png)
+compatibility for the output from power adapter, rated load for relay switch, buzzer and on/off switch  
+<img src="readme_images/electricdiagram1.png" width="70%">  
+![electricdiagram2](readme_images/electricdiagram2.png)  
 
 ## Debugging
 
@@ -125,7 +125,7 @@ b) “NO-PROC”: indicates that processes could not be found
 ## Relay Switch with Circuit & Components
 1. Setup circuit as shown below
 2. Prepare 5V DC Power Adapter or any other alternative 5V Output
-3. DO NOT CONNECT the 5V to the relay switch yet 
+3. DO NOT CONNECT the 5V to the relay switch yet  
 ![component](readme_images/component.png)
 4. Debug  
 ![componentdebug](readme_images/componentdebug.png)
